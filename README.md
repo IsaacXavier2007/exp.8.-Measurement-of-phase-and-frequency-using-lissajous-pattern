@@ -54,4 +54,4 @@ If time/div= 0.1 ms; 1 Major div is 0.1ms and each minor div is 0.02 ms.
 Thus, the phase difference and frequency of the given input signals were measured successfully using the lissajous pattern on the cathode ray oscilloscope.
 
 
-## Output Graph:
+
